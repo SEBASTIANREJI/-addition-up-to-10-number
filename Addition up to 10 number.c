@@ -6,6 +6,8 @@ int main()
 int sum=0;
 printf("Addition up to 10 numbers\n\n");
 printf("Enter up to 10 number");
+
+  
 for(int i=0;i<10;i++)
 {
 scanf("%d",&a[i]);
